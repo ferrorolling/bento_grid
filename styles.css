@@ -560,6 +560,7 @@ font-style: italic;
   }
 
   .social__media__multiple__accounts__image {
+    margin-left: 10px;
     width: 316px;
     margin-bottom:15px;
   }
