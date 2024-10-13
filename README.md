@@ -4,6 +4,5 @@ Bento Grid is a project from Frontend Mentor aimed at improving my layout skills
 
 You can view the project at the following link .[Bento-grid](https://bento-grid-lemon.vercel.app/).
 
-<img src="https://github.com/user-attachments/assets/717d416f-21c9-4faa-a3a7-ccaf677e77f6" alt="desktop-design" width="600" />
-<img src="https://github.com/user-attachments/assets/3186de2a-c4a8-4b5f-920d-c47a27d11b4b" alt="desktop-design" width="100" />
+<img src="https://github.com/user-attachments/assets/717d416f-21c9-4faa-a3a7-ccaf677e77f6" alt="desktop-design" width="600" /
 
