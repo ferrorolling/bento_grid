@@ -2,6 +2,8 @@
 
 Bento Grid is a project from Frontend Mentor aimed at improving my layout skills using CSS Grid and Flexbox, with the goal of creating a fully responsive website.
 
-[Vercel](https://bento-grid-lemon.vercel.app/).
+You can view the project at the following link .[Vercel](https://bento-grid-lemon.vercel.app/).
 
-<img src="https://github.com/user-attachments/assets/717d416f-21c9-4faa-a3a7-ccaf677e77f6" alt="desktop-design" width="300" />
+<img src="https://github.com/user-attachments/assets/717d416f-21c9-4faa-a3a7-ccaf677e77f6" alt="desktop-design" width="600" />
+<img src="https://github.com/user-attachments/assets/3186de2a-c4a8-4b5f-920d-c47a27d11b4b" alt="desktop-design" width="600" />
+
