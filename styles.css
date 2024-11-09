@@ -401,6 +401,10 @@ font-style: italic;
     margin-right: 32px;
   }
 
+  .social__media__multiple__accounts__image {
+    margin-top: 7px;
+  }
+
   .social__media__consistent__title {
     font-size: 28px;
   }
